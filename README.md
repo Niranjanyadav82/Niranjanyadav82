@@ -1,4 +1,5 @@
-## Hi Hello!, Niranjan yadav👋
+##  Hello!, 
+Niranjan yadav👋
 
 <!--
 **Niranjanyadav82/Niranjanyadav82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
